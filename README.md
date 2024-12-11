@@ -14,7 +14,7 @@ Final project for subject named <i>Security in Information Systems - IS335</i>
 We use the dataset from Kaggle (link: <a href="https://www.kaggle.com/datasets/devendra416/ddos-datasets" target="_blank">DDoS Dataset</a>)
 This dataset have 2 part, one is balanced about the Label features, the other is opposite
 
-## 🛠️ MODEL
+## 3. MODEL
 We use 4 models in this project:
 - Decision Tree
 - Random Forest
